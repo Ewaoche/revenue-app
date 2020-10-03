@@ -1,0 +1,15 @@
+
+{
+"one":{
+	"Name" : "MDA 1",
+	"Age": 28,
+	"Hobbies": ["Music", "Movies", "Tennis"],
+	"Residence": "Birmingham"
+	},
+"two":{
+	"Name" : "MDA 2",
+	"Age": 28,
+	"Hobbies": ["Music", "Movies", "Tennis"],
+	"Residence": "Birmingham"
+	}
+}

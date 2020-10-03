@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.stickBase {
+    overflow: hidden;
+    background-color: #152733;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
